@@ -1,0 +1,23 @@
+[
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "saturation": 30
+      },
+      {
+        "lightness": -25
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#52BEF7"
+      }
+    ]
+  }
+]
